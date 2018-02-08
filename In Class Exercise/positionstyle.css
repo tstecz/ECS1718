@@ -1,0 +1,36 @@
+table, th, td {
+    border: 1px solid black;
+    margin:auto;
+    margin-top:400px;
+}
+#upper_right{ 
+    position: absolute;
+    top:0px;
+    right:0px;
+    width:300px;
+    height:300px;
+}
+#upper_left{
+    position: absolute;
+    top:0px;
+    left:0px;
+    width:300px;
+    height:300px;
+}
+#bottom_left{
+    position: absolute;
+    bottom:0px;
+    left:0px;
+    width:300px;
+    height:300px;
+}
+#bottom_right{
+    position:absolute;
+    bottom:0px;
+    right:0px;
+    width:300px;
+    height:300px;
+}
+
+ 
+

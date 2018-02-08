@@ -1,0 +1,33 @@
+body {
+    background-color: #C3DCFF;
+    color: white; 
+}
+
+.center {
+    text-align: center;
+}
+
+#container {
+   color: #ff0000; 
+   padding: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: #443DE8;
+}
+
+a:hover {
+    color: #7E44FF;
+}
+
+em.purple {
+    color: purple;
+}
+
+
+
+
+
+
+
